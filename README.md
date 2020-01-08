@@ -13,3 +13,11 @@
  4. 学会mongodb 的增删改查
  
  5. 小案例- 手机登录注册
+ 
+# 详情请看博客
+
+ 个人博客：
+ https://linda0821.github.io/blog/#/all
+ 
+ segmentfault:
+ https://segmentfault.com/u/linda0821/articles 
