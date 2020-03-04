@@ -37,7 +37,7 @@ exports.send = function(number, code) {
     var postData = {
       "account":"YZM3661144",
       "password":"7fZFnM1lw38c3b",
-      "msg": '【微米浏览器】您本次操作的验证码为 '+ code +'，如非本人操作请忽略此短信。',
+      "msg": '【XXXXXX】您本次操作的验证码为 '+ code +'，如非本人操作请忽略此短信。',
       "phone": number,
       // "sendtime": "" // 可不传，定时发送时间的时间戳
       // "report": flase, // 可不传，是否需要状态报告，默认false；如需状态报告则传”true”
